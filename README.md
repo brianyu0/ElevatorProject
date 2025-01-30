@@ -1,0 +1,1 @@
+Utilized C++ object-oriented programming principles such as abstraction, polymorphism, inheritance, and encapsulation to develop the backend of an elevator simulation. Frontend is designed by Allegro game development library.
